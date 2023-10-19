@@ -1,2 +1,3 @@
 # angulartest
-test
+This is a test app to learn angular
+
